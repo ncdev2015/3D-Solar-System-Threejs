@@ -16,7 +16,7 @@ A example to practice Three.js:
 ## Requirements to use
 
 - Node 12.2 (or higher)
-- 3D Computer Graphics notion
+- 3D Computer Graphics concepts
 - Vue 2 elemental concepts
 
 ## Project setup
