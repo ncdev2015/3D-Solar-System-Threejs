@@ -11,7 +11,7 @@ A example to practice Three.js:
 - Labels
 - Shadows
 
-![3D Viewer](https://github.com/ncdev2015/3DViewerThreejs-Vue2/blob/master/public/resources/images/solar-system.png)
+![3D Viewer](https://github.com/ncdev2015/3D-Solar-System-Threejs/blob/master/public/resources/images/solar-system.png)
 
 ## Requirements to use
 
