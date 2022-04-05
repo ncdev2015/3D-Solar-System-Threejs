@@ -1,6 +1,6 @@
 # solar-system-threejs
 
-This practice is useful to understand this conceptos in Three.js:
+This practice is useful to understand this concepts in Three.js:
 
 - Translation
 - Rotation
