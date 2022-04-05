@@ -1,15 +1,16 @@
 # solar-system-threejs
 
-This practice is useful to understand this concepts in Three.js:
+This practice is useful to understand these concepts in Three.js:
 
 - Translation
 - Rotation
 - Scales
 - Textures
 - Angular velocities
-- Draw lines and arcs
+- Drawing lines and arcs
 - Labels
-- Shadows (or Shaders)
+- Lights
+- Shaders
 
 ![3D Viewer](https://github.com/ncdev2015/3D-Solar-System-Threejs/blob/master/public/resources/images/solar-system.png)
 
